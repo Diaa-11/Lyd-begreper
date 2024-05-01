@@ -1,0 +1,68 @@
+ [
+      {
+        "begrep": "Lydbølger",
+        "definisjon": "Trykkvariasjoner som beveger seg gjennom et medium, som luft, og skaper hørbar lyd."
+      },
+      {
+        "begrep": "Opptak av lyd",
+        "definisjon": "Prosessen med å fange opp lyd og konvertere den til et elektrisk signal for lagring eller behandling."
+      },
+      {
+        "begrep": "Elektriske signaler",
+        "definisjon": "Elektriske strømmer som bærer informasjon, for eksempel lydsignaler i en elektronisk enhet."
+      },
+      {
+        "begrep": "Digitalisering av lyd",
+        "definisjon": "Konvertering av analog lyd til digitale data ved å måle lydtrykk ved jevnlige intervaller og representere disse målingene som tallverdier."
+      },
+      {
+        "begrep": "Oppløsning (i antall bit)",
+        "definisjon": "Antall bit som brukes til å representere hvert lydsignal, som påvirker nøyaktigheten og detaljene i det digitaliserte lydsignalet."
+      },
+      {
+        "begrep": "Samplingsfrekvens",
+        "definisjon": "Antall lydmålinger som tas per sekund under digitalisering av lyd, målt i hertz (Hz)."
+      },
+      {
+        "begrep": "CD-platen",
+        "definisjon": "En optisk lagringsenhet som vanligvis brukes til å lagre lydopptak i digital form, med en standard samplingsfrekvens på 44,1 kHz og oppløsning på 16 bit."
+      },
+      {
+        "begrep": "Datastrøm",
+        "definisjon": "Kontinuerlig strøm av data, som vanligvis brukes til å referere til digitale lyd- eller videofiler som strømmes eller lagres."
+      },
+      {
+        "begrep": "Lydkomprimering",
+        "definisjon": "Prosessen med å redusere størrelsen på lydfiler ved å eliminere unødvendig informasjon eller bruke kodingsteknikker."
+      },
+      {
+        "begrep": "Tapsfri komprimering",
+        "definisjon": "En komprimeringsmetode som reduserer størrelsen på en lydfil uten å miste data eller kvalitet."
+      },
+      {
+        "begrep": "Delvis tapsfri komprimering",
+        "definisjon": "En komprimeringsmetode som reduserer størrelsen på en lydfil med minimal tap av data eller kvalitet."
+      },
+      {
+        "begrep": "Pulskodemodulasjon (PCM)",
+        "definisjon": "En metode for å representere analoge signaler som digitale signaler ved å måle signalets amplitude ved jevnlige tidspunkter."
+      },
+      {
+        "begrep": "Adaptive Differential Pulse Code Modulation (ADPCM)",
+        "definisjon": "En form for lydkomprimering som tar vare på forskjellene mellom påfølgende lydmålinger i stedet for de absolutte verdiene."
+      },
+      {
+        "begrep": "Hørselsspektrum",
+        "definisjon": "Området med lydfrekvenser som mennesker kan oppfatte, vanligvis fra 20 Hz til 20 000 Hz."
+      },
+      {
+        "begrep": "Frekvensområde (20 Hz til 20 000 Hz)",
+        "definisjon": "Området av lydfrekvenser som mennesker kan høre, vanligvis fra den laveste hørbare frekvensen på 20 Hz til den høyeste på 20 000 Hz."
+      },
+      {
+        "begrep": "Lydkvalitet",
+        "definisjon": "Subjektiv vurdering av klarhet, balanse og troverdighet av lyden, påvirket av faktorer som oppløsning, samplingsfrekvens og komprimeringsmetoder."
+      }
+    ]
+  
+  
