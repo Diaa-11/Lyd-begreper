@@ -51,17 +51,10 @@
         "begrep": "Adaptive Differential Pulse Code Modulation (ADPCM)",
         "definisjon": "En form for lydkomprimering som tar vare på forskjellene mellom påfølgende lydmålinger i stedet for de absolutte verdiene."
       },
-      {
-        "begrep": "Hørselsspektrum",
-        "definisjon": "Området med lydfrekvenser som mennesker kan oppfatte, vanligvis fra 20 Hz til 20 000 Hz."
-      },
+    
       {
         "begrep": "Frekvensområde (20 Hz til 20 000 Hz)",
         "definisjon": "Området av lydfrekvenser som mennesker kan høre, vanligvis fra den laveste hørbare frekvensen på 20 Hz til den høyeste på 20 000 Hz."
-      },
-      {
-        "begrep": "Lydkvalitet",
-        "definisjon": "Subjektiv vurdering av klarhet, balanse og troverdighet av lyden, påvirket av faktorer som oppløsning, samplingsfrekvens og komprimeringsmetoder."
       }
     ]
   
